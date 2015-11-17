@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\20150910_FirstnameLastname\20150910_FirstnameLastname\bin\Debug\20150910_FirstnameLastname.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\20150910_FirstnameLastname\20150910_FirstnameLastname\bin\Debug\20150910_FirstnameLastname.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\20150910_FirstnameLastname\20150910_FirstnameLastname\bin\Debug\20150910_FirstnameLastname.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\20150910_FirstnameLastname\20150910_FirstnameLastname\obj\Debug\20150910_FirstnameLastname.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\20150910_FirstnameLastname\20150910_FirstnameLastname\obj\Debug\20150910_FirstnameLastname.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\20150910_FirstnameLastname\20150910_FirstnameLastname\obj\Debug\20150910_FirstnameLastname.pdb
